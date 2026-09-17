@@ -4,8 +4,7 @@ const simon = {
   company: "cloudflare",
   location: "switzerland",
   building: ["ai tools", "opencode extensions"],
-  stack: ["cloudflare workers", "typescript", "react"],
-  scope: "turning what-ifs into URLs",
+  stack: ["cloudflare", "typescript", "react"],
 };
 ```
 
