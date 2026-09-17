@@ -1,10 +1,11 @@
 ```ts
 const simon = {
+  role: "strategy & corp dev",
   company: "cloudflare",
   location: "switzerland",
   building: ["ai tools", "opencode extensions"],
-  stack: ["typescript", "workers", "shell"],
-  scope: "just one more feature",
+  stack: ["cloudflare workers", "typescript", "react"],
+  scope: "turning what-ifs into URLs",
 };
 ```
 
