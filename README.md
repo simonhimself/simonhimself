@@ -2,7 +2,7 @@
 const simon = {
   role: "strategy & corp dev",
   company: "cloudflare",
-  location: "switzerland",
+  location: ["switzerland", "portugal"],
   building: ["ai tools", "opencode extensions"],
   stack: ["cloudflare", "typescript", "react"],
 };
